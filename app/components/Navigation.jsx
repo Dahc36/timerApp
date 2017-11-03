@@ -10,10 +10,10 @@ let Navigation = (props) => {
 						React Timer App
 					</li>
 					<li>
-						<IndexLink to="/" activeClassName="active-link">Link 1</IndexLink>
+						<IndexLink to="/" activeClassName="active-link">Timer</IndexLink>
 					</li>
 					<li>
-						<Link to="/asdf" activeClassName="active-link">Link 2</Link>
+						<Link to="/countdown" activeClassName="active-link">Countdown</Link>
 					</li>
 				</ul>
 			</div>
