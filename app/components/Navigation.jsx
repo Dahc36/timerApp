@@ -20,7 +20,7 @@ let Navigation = (props) => {
 			<div className="top-bar-right">
 				<ul className="menu">
 					<li className="menu-text">
-						Creado por Lokohanks
+						Creado por <a href="">Lokohanks</a>
 					</li>
 				</ul>
 			</div>
